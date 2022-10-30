@@ -1,5 +1,7 @@
 # tradix #
 
+[![MIT License](https://img.shields.io/badge/license-MIT-informational)](https://opensource.org/licenses/MIT)
+
 Convert between radices. Supports input radices from 2–16 and output radices of
 any size greater than or equal to 2. Also supports arbitrary input and output
 alphabets, with built-in support for:
